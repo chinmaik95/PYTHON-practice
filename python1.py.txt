@@ -1,0 +1,18 @@
+
+print("Hello!")
+print('''Here's a picture of dog
+o____
+ ||||''')
+born = input("What year were you born?")
+born = int(born)
+age = 2018 - born
+dog_age = 7*age
+print("If you were a dog you would be ", dog_age ,"years old in 2018.")
+
+
+#print("Multiple")
+
+print("ha" *4)
+print("here comes a wave")
+print("/\  " *10)
+print("  \/" *10)
